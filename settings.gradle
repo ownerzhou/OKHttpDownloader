@@ -1,2 +1,3 @@
 rootProject.name='OKHttpDownloader'
 include ':app'
+include ':downloader'
